@@ -26,10 +26,7 @@ I want to build my career in web development and take on any new challenge upon 
 <br>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akramHoque)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akramHoque)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akramHoque)  
 
