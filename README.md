@@ -32,11 +32,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akramHoque)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akramHoque)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akramHoque) 
 <br>
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akramHoque)
 <br>
 
 
