@@ -27,15 +27,19 @@ I want to build my career in web development and take on any new challenge upon 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akramHoque)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akramHoque)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akramHoque) 
+<br>
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akramHoque)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akramHoque)
+<br>
 
 
 
 <h3>Connect With Me </h3>
+<br>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akramHoque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akramul-hoque-155438241/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/akram.sharif.756)  
