@@ -1,4 +1,4 @@
-<img align='center' src="https://avatars.githubusercontent.com/u/96454691?v=4">
+<p align='center'><img  src="https://avatars.githubusercontent.com/u/96454691?v=4"></p>
 
 
 ### Hi there 👋, I'm Md. Akramul Hoque
