@@ -1,9 +1,9 @@
 <p align='center'><img  src="https://avatars.githubusercontent.com/u/96454691?v=4"></p>
 
 
-<h3 align='center'>  Hi there 👋, I'm Md. Akramul Hoque 
+<p align='center'>  Hi there 👋, I'm Md. Akramul Hoque 
   <br>
- Web Developer<h3>
+ Web Developer<p>
 
 <p align='justify'>I want to build my career in web development and take on any new challenge upon it. I’m very passionate about this field and want to learn more about new tools and technologies. I am looking forward to a place where I can use my skills and prove myself as a quality developer. </p>
 
