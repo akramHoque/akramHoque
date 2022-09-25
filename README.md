@@ -33,6 +33,7 @@
 <br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akramHoque)
+<br>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akramHoque) 
 <br>
