@@ -30,7 +30,6 @@ I want to build my career in web development and take on any new challenge upon 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akramHoque)  
 
-![GitHub metrics](https://metrics.lecoq.io/akramHoque)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akramHoque)  
 
