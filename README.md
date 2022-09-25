@@ -34,7 +34,6 @@ I want to build my career in web development and take on any new challenge upon 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akramHoque)  
 
-![Profile views](https://gpvc.arturio.dev/akramHoque)  
 
 
 <h3>Connect With Me </h3>
