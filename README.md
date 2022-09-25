@@ -7,7 +7,7 @@
 
 <p align='justify'>I want to build my career in web development and take on any new challenge upon it. I’m very passionate about this field and want to learn more about new tools and technologies. I am looking forward to a place where I can use my skills and prove myself as a quality developer. </p>
 
-<h3 align="center">Skills:</h3>
+<h3 align="left">Skills:</h3>
 <p><hr></p>
 <h3 align="left">Front-End</h3>
 <br>
