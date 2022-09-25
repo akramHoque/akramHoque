@@ -23,12 +23,13 @@ I want to build my career in web development and take on any new challenge upon 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web development 
 
+<br>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=akramHoque)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akramHoque)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akramHoque&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akramHoque)  
 
